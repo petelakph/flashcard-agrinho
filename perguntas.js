@@ -24,24 +24,6 @@ criaCartao(
 
 criaCartao(
     'Conexão Campo-Cidade',
-    'Quais produtos do campo são essenciais para a cidade?',
-    'Frutas, legumes, verduras, grãos, carnes e laticínios são alguns dos principais.'
-)
-
-criaCartao(
-    'Conexão Campo-Cidade',
-    'Quais serviços da cidade são importantes para o campo?',
-    'Acesso à educação, saúde, tecnologia (internet, maquinário), transporte e serviços financeiros.'
-)
-
-criaCartao(
-    'Conexão Campo-Cidade',
-    'Como o turismo rural ajuda a conexão?',
-    'Ele permite que moradores da cidade conheçam o dia a dia do campo, valorizem o trabalho dos produtores e desfrutem da natureza.'
-)
-
-criaCartao(
-    'Conexão Campo-Cidade',
     'Qual o papel da tecnologia nessa conexão?',
     'A tecnologia facilita a comunicação, o transporte, a venda e a compra de produtos, e a troca de conhecimentos entre campo e cidade.'
 )
