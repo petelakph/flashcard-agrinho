@@ -5,14 +5,9 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    margin: 0;
-    background-color: #e8f5e9;
-    overflow: hidden;
+    background: url('img/bg-desktop.webp');
+    font-family: Bai Jamjuree;
+}
 
 #container {
     display: flex; 
